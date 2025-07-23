@@ -1,8 +1,9 @@
 # Coffee-Shop-Sale-Dashboard
-📊 Overview
+# 📊 Overview
 
 This Power BI project focuses on analyzing the sales data of a coffee shop to uncover insights into customer behavior, product performance, sales trends, and operational efficiency. The dashboard is designed to help stakeholders make informed business decisions through interactive visualizations.
-📝 Project Objectives
+
+# 📝 Project Objectives
 
     Analyze daily, weekly, and monthly sales performance
 
