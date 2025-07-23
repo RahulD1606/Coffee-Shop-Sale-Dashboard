@@ -15,7 +15,7 @@ This Power BI project focuses on analyzing the sales data of a coffee shop to un
 
     Track key metrics like revenue, profit margin, and quantity sold
 
-📁 Dataset
+# 📁 Dataset
 
     Source: (https://github.com/RahulD1606/Coffee-Shop-Sale-Dashboard/blob/main/Coffee%20Shop%20Sales.csv)
 
@@ -37,7 +37,7 @@ This Power BI project focuses on analyzing the sales data of a coffee shop to un
 
         Store Location (if applicable)
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
     Power BI for dashboard and visualization
 
@@ -45,7 +45,7 @@ This Power BI project focuses on analyzing the sales data of a coffee shop to un
 
     DAX for calculated columns and measures
 
-📈 Key Features of the Dashboard
+# 📈 Key Features of the Dashboard
 
     Interactive filters (by date, category, product)
 
@@ -59,11 +59,11 @@ This Power BI project focuses on analyzing the sales data of a coffee shop to un
 
     Heat maps to identify peak hours/days
 
-📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 (https://github.com/RahulD1606/Coffee-Shop-Sale-Dashboard/blob/main/Coffee%20Shop%20Sales%20Dashboard.PNG)
 
-📚 Insights & Recommendations
+# 📚 Insights & Recommendations
 
     Focus marketing campaigns on top-selling products
 
@@ -73,7 +73,7 @@ This Power BI project focuses on analyzing the sales data of a coffee shop to un
 
     Expand offerings in popular categories
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
     Add customer segmentation if customer data becomes available
 
