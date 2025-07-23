@@ -41,7 +41,7 @@ This Power BI project focuses on analyzing the sales data of a coffee shop to un
 
     Power BI for dashboard and visualization
 
-    Microsoft Excel for data cleaning/preparation
+    Power Query Editor for data cleaning/preparation
 
     DAX for calculated columns and measures
 
